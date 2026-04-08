@@ -1,6 +1,6 @@
 # SeongRyeol's GitHub 
 
-> Ai developer & Data Analysis
+> AI developer & Data Analysis
 
 ---
 
