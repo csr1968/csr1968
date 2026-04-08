@@ -1,4 +1,4 @@
-# Hi there 👋 I'm SeongRyeol 
+# SeongRyeol's GitHub 
 
 > Ai developer & Data Analysis
 
